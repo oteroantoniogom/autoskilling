@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Research & NAS"
+  short_description: "Investigate and automate neural architecture design"
+  default_prompt: "Use $autoresearch-nas to investigate useful architecture primitives for this problem, then search valid combinations within my compute budget."

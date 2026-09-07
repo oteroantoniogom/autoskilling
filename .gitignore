@@ -3,7 +3,7 @@ __pycache__/
 .pytest_cache/
 .pi/
 
-# harness state: autoresearch sessions + dl-progress training JSONL (never committed)
+# harness state: autocodeimprove sessions + dl-progress training JSONL (never committed)
 .auto/
 
 # linkedin-profile-archive runtime output (profile data of third parties — keep local)
